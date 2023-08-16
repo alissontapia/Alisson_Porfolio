@@ -1,0 +1,4 @@
+/* Add spacing between project sections */
+.project-section {
+    margin-bottom: 1000px; /* Adjust this value as per your preference for spacing */
+}

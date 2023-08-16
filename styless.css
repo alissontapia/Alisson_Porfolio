@@ -1,0 +1,10 @@
+/* styles.css */
+
+/* Center the container both horizontally and vertically */
+.follow-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Horizontal centering */
+  justify-content: center; /* Vertical centering */
+  height: 80px; /* Adjust the height to your desired value */
+}
